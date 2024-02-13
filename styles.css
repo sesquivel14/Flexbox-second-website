@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.flex-containter {
+    height: 400px;px
+    display : flex; 
+background-color: #f4f4f4;
+justify-content: space space-around; 
+}
+
+.item{
+    width:100px;
+    height: 100px;
+    background:#254de4;
+    color: #fff;
+margin: 10px;
+}
